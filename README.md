@@ -1,1 +1,3 @@
-# metropolitan_group
+# Тестовое задание metropolitan_group 
+
+Автор: Максим Попов
